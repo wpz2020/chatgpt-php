@@ -1,0 +1,1 @@
+import{l as o,Z as r}from"./index-9250cf41.js";const e="/admin/index/";function a(){return o({url:e+"index",method:"get"})}function l(n,t={}){return o({url:e+"login",data:t,method:n})}function u(){const n=r();return o({url:e+"logout",method:"POST",data:{refresh_token:n.getToken("refresh")}})}export{u as a,a as i,l};

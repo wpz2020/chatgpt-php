@@ -1,0 +1,1 @@
+import{_ as e,f as n,c as t}from"./index-9250cf41.js";function a(){return new Promise(o=>o(!1))}const r={},c={class:"login-footer-buried-point"};function s(o,i){return n(),t("div",c)}const f=e(r,[["render",s]]);export{f as L,a as l};
