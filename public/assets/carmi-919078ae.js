@@ -1,0 +1,1 @@
+const t={id:"ID",key:"卡密",num:"聊天次数",day:"有效天数",status:"状态","status 0":"未使用","status 1":"已使用",user_id:"绑定会员",user__username:"用户名",type:"卡密类型","type custom":"普通卡密","type vip":"套餐卡密",product_id:"远程下拉",product__name:"套餐名称",download:"导出次数",create_time:"添加时间",update_time:"更新时间","quick Search Fields":"ID"};export{t as default};

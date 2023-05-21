@@ -1,0 +1,1 @@
+const d={id:"ID",orderid:"系统订单号",product_id:"商品id",product_name:"商品名称",uid:"用户id",username:"用户名",money:"支付金额",day:"有效天数",num:"聊天次数",status:"支付状态","status 0":"未支付","status 1":"已支付",order_time:"订单时间","quick Search Fields":"ID"};export{d as default};

@@ -1,0 +1,1 @@
+const e={id:"ID",title:"变量标题",name:"变量名称",value_source:"变量值来源","value_source literal":"字面量","value_source func":"方法返回值","value_source sql":"sql查询结果",value:"变量值",sql:"SQL语句",namespace:"命名空间",class:"类名",func:"方法名",param:"传递的参数",updatetime:"更新时间",createtime:"创建时间","quick Search Fields":"标题、变量名",status:"状态"};export{e as default};

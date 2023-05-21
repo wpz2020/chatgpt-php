@@ -1,0 +1,1 @@
+import{c as o,h as r}from"./index-89e26330.js";const e="/admin/index/";function a(){return o({url:e+"index",method:"get"})}function u(n,t={}){return o({url:e+"login",data:t,method:n})}function l(){const n=r();return o({url:e+"logout",method:"POST",data:{refresh_token:n.getToken("refresh")}})}export{l as a,a as i,u as l};

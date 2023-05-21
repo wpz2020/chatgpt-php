@@ -1,0 +1,1 @@
+const d={id:"id",orderid:"orderid",product_id:"product_id",product_name:"product_name",uid:"uid",username:"username",money:"money",day:"day",num:"num",status:"status","status 0":"status 0","status 1":"status 1",order_time:"order_time","quick Search Fields":"id"};export{d as default};

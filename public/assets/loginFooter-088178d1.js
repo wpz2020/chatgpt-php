@@ -1,0 +1,1 @@
+import{openBlock as e,createElementBlock as n}from"vue";import{_ as r}from"./index-89e26330.js";function a(){return new Promise(o=>o(!1))}const t={},c={class:"login-footer-buried-point"};function i(o,s){return e(),n("div",c)}const l=r(t,[["render",i]]);export{l as L,a as l};

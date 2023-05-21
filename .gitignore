@@ -1,9 +1,7 @@
 # 通过 Git 部署项目至线上时建议删除的忽略规则
-/vendor
-/modules
+
 /public/*.lock
-/public/index.html
-/public/assets
+
 
 # 通过 Git 部署项目至线上时可以考虑删除的忽略规则
 /public/storage/*
@@ -20,7 +18,7 @@ node_modules
 dist
 dist-ssr
 .DS_Store
-/.env
+
 Desktop.ini
 /web
 

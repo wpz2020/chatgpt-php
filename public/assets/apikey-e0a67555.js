@@ -1,0 +1,1 @@
+const a={id:"ID",apikey:"api_key",total:"总额",usage:"已使用额度",balance:"余额",num:"每分钟可回答次数",cost_num:"已回答次数",status:"状态",start:"开始时间",end:"过期时间",add_time:"添加时间","quick Search Fields":"ID"};export{a as default};

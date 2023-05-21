@@ -1,0 +1,1 @@
+const e={id:"ID",title:"模板标题",code:"唯一标识",template:"服务商模板ID",content:"短信内容",variables:"模板变量",updatetime:"更新时间",createtime:"创建时间",variable__title:"标题","quick Search Fields":"模板标题、唯一标识",status:"状态",test_send:"测试发送","Please enter the receiver mobile":"请输入收信人手机号","Please enter the correct mobile number":"请输入正确的手机号"};export{e as default};
