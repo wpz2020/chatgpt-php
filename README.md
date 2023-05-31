@@ -1,20 +1,27 @@
-##### 安装教程
+##### 演示网站
 
       AI小助手demo网站
 
       前端： https://px.goodwpd.com/#/
       后端： https://px.goodwpd.com/#/admin/   账号：demo  密码：123456
 
+##### v2 版本演示网站 （功能更多）
+
+      AI小助手demo网站
+
+      前端： https://kp.goodwpd.com/#/
+      后端： https://kp.goodwpd.com/#/admin/   账号：demo  密码：123456
 
 ##### 演示
 
 !['yanshi'](./img/2.png)
 !['yanshi'](./img/6.png)
-      
+
 ##### 网站简介
 
       开发语言：thinkphp6 + vue3 + ts + elements-plus
-##### 网站功能  
+
+##### 网站功能
 
       1.支持流式输出，打字机效果
       2.支持key轮询
@@ -41,15 +48,15 @@
             rewrite  ^(.*)$  /index.php?s=$1  last;   break;
             }
       }
+
 !['yanshi'](./img/7.png)
 
       6. 设置public 为入口
-!['yanshi'](./img/8.png)
 
+!['yanshi'](./img/8.png)
 
       前端： https://你的地址/index.html#/
       后端： https://你的地址/index.html#/admin/   账号：admin  密码：123456
-
 
 #### 问题解答
 
@@ -58,11 +65,7 @@
       3.怎么优化加载速度？
       4.怎么获得未编译源码进行二次开发？
       5.功能太少？请访问v2版本 https://kp.goodwpd.com/
-      ... 
+      ...
       以上各种问题可加qq群【575399817】，并私信群主解决
 
       最后最后，觉得可以的麻烦点一点Star哦！！！！
-
-
-
-
